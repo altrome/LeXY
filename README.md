@@ -1,6 +1,7 @@
 # LeXY
   [See it on Thingiverse](http://www.thingiverse.com/thing:1091671)
 
+
 LeXY is a 3D Printer, with the ability to exchange the extruder with a Laser module. I'm working in this project since late 2014, and now, after several trial and error tests, I think that the reliability reached the desired level... I will maintain the "Work in progress" state because is a live project constantly improved... 
 
 **Main Features**
@@ -14,6 +15,9 @@ LeXY is a 3D Printer, with the ability to exchange the extruder with a Laser mod
 * Remote Control with Raspberry Pi & [Octoprint](http://octoprint.org)
 * High range of printing materials (All Metal Hotend)
 * High Definition, Trapezoidal Z Lead Screw
+
+**3D Software used**
+* Solidworks 2015
 
 Use it, Share it, Improve it, but please, don't sell it... ;)
 
